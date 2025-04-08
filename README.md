@@ -2,7 +2,7 @@
 
 Welcome to your minimalist & modern **To-Do Web App** built using **Flask** and styled beautifully with **Tailwind CSS**! 🚀
 
-![screenshot](https://raw.githubusercontent.com/your-username/flask-todo-app/main/screenshot.png) <!-- Optional: add screenshot of your app -->
+![screenshot](Screenshot.png) <!-- Optional: add screenshot of your app -->
 
 ---
 
